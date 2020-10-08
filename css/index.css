@@ -436,6 +436,9 @@ html {
     color: #636363;
     text-indent:2em;
 }
+.contact .about_1_3 p {
+    text-indent: 0;
+}
 .about_2 {
     width: 1200px;
     height: 906px;
